@@ -186,7 +186,7 @@
                                 <div class="p-1">
                                 <Paper color="secondary" variant="outlined" class="p-2">
                                     <Title>合同会社Surflex CEO</Title>
-                                    <Content>2021/08 予定</Content>
+                                    <Content>2023/08 予定</Content>
                                     <Content>LLMOpsを中心とした教育業界のDXを行っています。</Content>
                                 </Paper>
                                 </div>
