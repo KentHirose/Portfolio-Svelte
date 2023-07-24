@@ -100,7 +100,7 @@
                         extend
                         bind:open={panel1Open}>
                             <Header>
-                            Biz
+                            > Biz
                             <span slot="description">ビジネススキル.</span>
                             </Header>
                             <Content>
@@ -120,7 +120,7 @@
                         extend
                         bind:open={panel2Open}>
                             <Header>
-                            Dev
+                            > Dev
                             <span slot="description">開発スキル.</span>
                             </Header>
                             <Content>
@@ -140,7 +140,7 @@
                         extend
                         bind:open={panel3Open}>
                             <Header>
-                            Tech Stack
+                            > Tech Stack
                             <span slot="description">経験のある言語やフレームワークなど.</span>
                             </Header>
                             <Content>
@@ -160,7 +160,7 @@
                         extend
                         bind:open={panel4Open}>
                             <Header>
-                            Domain
+                            > Domain
                             <span slot="description">経験のある領域や興味のある分野.</span>
                             </Header>
                             <Content>
