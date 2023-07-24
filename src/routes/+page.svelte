@@ -182,7 +182,7 @@
                         <h1 class="px-4 text-slate-500 text-3xl font-bold">
                             Carrer</h1>
                             <div class="px-6 py-2">
-                                <!-- 合同会社Surflex -->
+                                <!-- 合同会社Surflexi -->
                                 <div class="p-1">
                                 <Paper color="secondary" variant="outlined" class="p-2">
                                     <Title>合同会社Surflex CEO</Title>
